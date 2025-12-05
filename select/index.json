@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "街",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2025-12-05T13:31:56.669088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_街_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_街_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_街_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "街 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_街_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン",
+      "has_synced": true,
+      "path": "select/05_街_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "街 - City (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_街_-_City_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "街 (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 & 鏡音リン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_街_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&_鏡音リン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "街 2012.12.16 at TOKYO DOME CITY HALL LIVE mix",
+      "artist": "negoto",
+      "has_synced": true,
+      "path": "select/08_街_2012.12.16_at_TOKYO_DOME_CITY_HALL_LIVE_mix_negoto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/09_街_くるり.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "遊助",
+      "has_synced": true,
+      "path": "select/10_街_遊助.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "フレネシ",
+      "has_synced": true,
+      "path": "select/11_街_フレネシ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/12_街_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "街",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/13_街_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "街",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_街_jon-YAKITORY.txt"
+    }
+  ]
+}
